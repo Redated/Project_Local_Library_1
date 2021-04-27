@@ -8,3 +8,6 @@ I built this to continue my practice of using higher order functions and supply 
 ## Tools Used
 - JavaScript
 - Built in JS functions
+
+## Link to Live Page
+[Local Library](https://erichill41.github.io/Project_Local_Library_1/public/index.html)
